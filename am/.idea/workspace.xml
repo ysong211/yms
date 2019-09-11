@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/peoject_one/mongo_xls3.py" line="78" />
+    <bookmark url="file://$PROJECT_DIR$/sort/bubble_sort.py" line="39" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="180b6354-583e-4c9e-a2ac-a43aa49710df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JD/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JingDong/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scrapy_Proxy_Ip/.idea/Scrapy_Proxy_Ip.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scrapy_Proxy_Ip/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scrapy_Proxy_Ip/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scrapy_Proxy_Ip/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scrapy_Proxy_Ip/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scrapy_Proxy_Ip/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scrapy_Proxy_Ip/proxy_ip/proxy_ip/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scrapy_Proxy_Ip/proxy_ip/proxy_ip/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scrapy_Proxy_Ip/proxy_ip/proxy_ip/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scrapy_Proxy_Ip/proxy_ip/proxy_ip/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scrapy_Proxy_Ip/proxy_ip/proxy_ip/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scrapy_Proxy_Ip/proxy_ip/proxy_ip/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scrapy_Proxy_Ip/proxy_ip/proxy_ip/spiders/xici.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scrapy_Proxy_Ip/proxy_ip/scrapy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scrapy_Proxy_Ip/proxy_ip/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_email/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/am/selenium_amazon/one_selenium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/peoject_one/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/peoject_one/mongo_xls2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/peoject_one/mongo_xls3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/peoject_one/selenium_one1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/peoject_one/selenium_one2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/peoject_one/selenium_one3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/peoject_one/selenium_one4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/peoject_one/selenium_one5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/peoject_one/selenium_one6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/peoject_one/selenium_one7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/peoject_one/selenium_one8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/peoject_one/selenium_one9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy_ip/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy_ip/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy_ip/.idea/proxy_ip.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy_ip/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy_ip/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JD/.idea/JD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JD/.idea/JD.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JD/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JD/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JD/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JD/jdgoods_spider/jdgoods_spider/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../JD/jdgoods_spider/jdgoods_spider/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JD/jdgoods_spider/jdgoods_spider/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../JD/jdgoods_spider/jdgoods_spider/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JD/jdgoods_spider/jdgoods_spider/spiders/jdgoods.py" beforeDir="false" afterPath="$PROJECT_DIR$/../JD/jdgoods_spider/jdgoods_spider/spiders/jdgoods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/am/selenium_amazon/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/am/selenium_amazon/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/am/selenium_amazon/Accesorios.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/am/selenium_amazon/Accesorios_10010.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/am/selenium_amazon/Accesorios_28001.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/am/selenium_amazon/Accesorios_28001_3.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/am/selenium_amazon/Accesorios_PO94LJ.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/am/selenium_amazon/amazon2.py" beforeDir="false" afterPath="$PROJECT_DIR$/am/selenium_amazon/amazon2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/am/selenium_amazon/amazon_selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/am/selenium_amazon/amazon_selenium.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/am/selenium_amazon/mongo_xls.py" beforeDir="false" afterPath="$PROJECT_DIR$/am/selenium_amazon/mongo_xls.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/am$amazon_homes.coverage" NAME="amazon_homes Coverage Results" MODIFIED="1561971070022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am" />
+    <SUITE FILE_PATH="coverage/am$amazon.coverage" NAME="amazon Coverage Results" MODIFIED="1560238897603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am" />
+    <SUITE FILE_PATH="coverage/am$1.coverage" NAME="1 Coverage Results" MODIFIED="1561860146401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="am" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sort/bubble_sort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1173">
+              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/am/selenium_amazon/amazon_selenium.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/am/middlewares.py" />
+        <option value="$PROJECT_DIR$/am/spiders/amazon_goods.py" />
+        <option value="$PROJECT_DIR$/am/amazon_homes.py" />
+        <option value="$PROJECT_DIR$/am/spiders/mongo_xls.py" />
+        <option value="$PROJECT_DIR$/am/amazon_selenium_3.py" />
+        <option value="$PROJECT_DIR$/am/selenium_amazon/amazon3.py" />
+        <option value="$PROJECT_DIR$/am/selenium_amazon/amazon4.py" />
+        <option value="$PROJECT_DIR$/am/amazon_selenium.py" />
+        <option value="$PROJECT_DIR$/am/mongo_xls.py" />
+        <option value="$PROJECT_DIR$/am/1.py" />
+        <option value="$PROJECT_DIR$/am/project/browse_amazon.py" />
+        <option value="$PROJECT_DIR$/am/amazon.py" />
+        <option value="$PROJECT_DIR$/am/selenium_amazon/amazon1.py" />
+        <option value="$PROJECT_DIR$/am/selenium_amazon/one_selenium.py" />
+        <option value="$PROJECT_DIR$/am/selenium_amazon/mongo_xls2.py" />
+        <option value="$PROJECT_DIR$/peoject_one/selenium_one.py" />
+        <option value="$PROJECT_DIR$/peoject_one/selenium_one2.py" />
+        <option value="$PROJECT_DIR$/peoject_one/selenium_one3.py" />
+        <option value="$PROJECT_DIR$/peoject_one/selenium_one4.py" />
+        <option value="$PROJECT_DIR$/peoject_one/selenium_one5.py" />
+        <option value="$PROJECT_DIR$/peoject_one/selenium_one6.py" />
+        <option value="$PROJECT_DIR$/peoject_one/selenium_one7.py" />
+        <option value="$PROJECT_DIR$/peoject_one/mongo_xls3.py" />
+        <option value="$PROJECT_DIR$/peoject_one/selenium_one1.py" />
+        <option value="$PROJECT_DIR$/Python_email/email.py" />
+        <option value="$PROJECT_DIR$/Python_email/runoob.txt" />
+        <option value="$PROJECT_DIR$/Python_email/test.py" />
+        <option value="$PROJECT_DIR$/Python_email/em.py" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/peoject_one/mongo_xls2.py" />
+        <option value="$PROJECT_DIR$/proxy_ip/proxy_pool/spider.py" />
+        <option value="$PROJECT_DIR$/proxy_ip/66_proxy.py" />
+        <option value="$PROJECT_DIR$/proxy_ip/hai_proxy.py" />
+        <option value="$PROJECT_DIR$/proxy_ip/ipku_proxy.py" />
+        <option value="$PROJECT_DIR$/proxy_ip/kuaidaili_proxy.py" />
+        <option value="$PROJECT_DIR$/proxy_ip/list_proxy.py" />
+        <option value="$PROJECT_DIR$/proxy_ip/test.py" />
+        <option value="$PROJECT_DIR$/proxy_ip/xici_proxy.py" />
+        <option value="$PROJECT_DIR$/proxy_ip/yun_proxy.py" />
+        <option value="$PROJECT_DIR$/am/selenium_amazon/1.py" />
+        <option value="$PROJECT_DIR$/amazon_selenium_project/amazon_selenium_no_ip.py" />
+        <option value="$PROJECT_DIR$/am/selenium_amazon/mongo_xls.py" />
+        <option value="$PROJECT_DIR$/am/selenium_amazon/amazon2.py" />
+        <option value="$PROJECT_DIR$/amazon_selenium_project/chrome启动.py" />
+        <option value="$PROJECT_DIR$/amazon_selenium_project/amazon_project.py" />
+        <option value="$PROJECT_DIR$/amazon_selenium_project/cookies/test.py" />
+        <option value="$PROJECT_DIR$/am/selenium_amazon/2.py" />
+        <option value="$PROJECT_DIR$/amazon_selenium_project/cookies/test2.py" />
+        <option value="$PROJECT_DIR$/amazon_selenium_project/test.py" />
+        <option value="$PROJECT_DIR$/sort/bubble_sort.py" />
+        <option value="$PROJECT_DIR$/am/selenium_amazon/amazon_selenium.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="64" />
+    <option name="y" value="54" />
+    <option name="width" value="1182" />
+    <option name="height" value="883" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="am" type="b2602c69:ProjectViewProjectNode" />
+              <item name="am" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="am" type="b2602c69:ProjectViewProjectNode" />
+              <item name="am" type="462c0819:PsiDirectoryNode" />
+              <item name="am" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="am" type="b2602c69:ProjectViewProjectNode" />
+              <item name="am" type="462c0819:PsiDirectoryNode" />
+              <item name="am" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium_amazon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="am" type="b2602c69:ProjectViewProjectNode" />
+              <item name="am" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/amazon_selenium_project/cookies" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\am\amazon_selenium_project\cookies" />
+      <recent name="C:\Users\Administrator\Desktop\am\amazon_selenium_project" />
+      <recent name="C:\Users\Administrator\Desktop\am\am\selenium_amazon" />
+      <recent name="C:\Users\Administrator\Desktop\am\proxy_ip" />
+      <recent name="C:\Users\Administrator\Desktop\am\peoject_one" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\am\peoject_one" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.bubble_sort">
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="am" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/am/selenium_amazon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/am/selenium_amazon/2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bubble_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="am" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sort" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sort/bubble_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="am" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon_selenium_project/cookies" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon_selenium_project/cookies/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="am" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon_selenium_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon_selenium_project/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="am" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon_selenium_project/cookies" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon_selenium_project/cookies/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bubble_sort" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.2" />
+        <item itemvalue="Python.test (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="180b6354-583e-4c9e-a2ac-a43aa49710df" name="Default Changelist" comment="" />
+      <created>1560073767470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560073767470</updated>
+      <workItem from="1560073768634" duration="10208000" />
+      <workItem from="1560130690908" duration="617000" />
+      <workItem from="1560150496093" duration="17168000" />
+      <workItem from="1560234285691" duration="2223000" />
+      <workItem from="1560395359295" duration="11000" />
+      <workItem from="1561430187316" duration="19110000" />
+      <workItem from="1561511622256" duration="16062000" />
+      <workItem from="1561598327199" duration="19414000" />
+      <workItem from="1561684179383" duration="24443000" />
+      <workItem from="1561770277337" duration="10181000" />
+      <workItem from="1561798326355" duration="1947000" />
+      <workItem from="1561856933905" duration="16240000" />
+      <workItem from="1561944620724" duration="599000" />
+      <workItem from="1561950468055" duration="10449000" />
+      <workItem from="1562029626156" duration="32465000" />
+      <workItem from="1562139129983" duration="33675000" />
+      <workItem from="1562288976307" duration="1719000" />
+      <workItem from="1562292158197" duration="21099000" />
+      <workItem from="1562375577364" duration="13159000" />
+      <workItem from="1562395891867" duration="7122000" />
+      <workItem from="1562479881197" duration="80512000" />
+      <workItem from="1563499301664" duration="1346000" />
+      <workItem from="1563502197069" duration="29999000" />
+      <workItem from="1563758074153" duration="34758000" />
+      <workItem from="1563947767850" duration="32000" />
+      <workItem from="1564195173571" duration="4618000" />
+      <workItem from="1564367294990" duration="11596000" />
+      <workItem from="1564451957897" duration="64418000" />
+      <workItem from="1564731373275" duration="5612000" />
+      <workItem from="1564800617351" duration="8000000" />
+      <workItem from="1564893939306" duration="678000" />
+      <workItem from="1564967292145" duration="14713000" />
+      <workItem from="1565053950963" duration="24420000" />
+      <workItem from="1565140598937" duration="14765000" />
+      <workItem from="1565172998657" duration="9899000" />
+      <workItem from="1565312814614" duration="6172000" />
+      <workItem from="1565319301678" duration="11375000" />
+      <workItem from="1565400144401" duration="412000" />
+      <workItem from="1565401131779" duration="1496000" />
+      <workItem from="1565572674770" duration="13330000" />
+      <workItem from="1565659323409" duration="1742000" />
+      <workItem from="1565666685987" duration="7504000" />
+      <workItem from="1565745636793" duration="11447000" />
+      <workItem from="1565831671704" duration="5230000" />
+      <workItem from="1565919952501" duration="6076000" />
+      <workItem from="1566009380458" duration="1938000" />
+      <workItem from="1566177853318" duration="12369000" />
+      <workItem from="1566202589610" duration="2119000" />
+      <workItem from="1566263771490" duration="6381000" />
+      <workItem from="1566367715850" duration="12513000" />
+      <workItem from="1566523711018" duration="11403000" />
+      <workItem from="1566610371622" duration="10210000" />
+      <workItem from="1566783810292" duration="1121000" />
+      <workItem from="1566786531936" duration="817000" />
+      <workItem from="1566787368574" duration="2492000" />
+      <workItem from="1566868790597" duration="617000" />
+      <workItem from="1566878505398" duration="2202000" />
+      <workItem from="1566961941375" duration="2273000" />
+      <workItem from="1566973313087" duration="8328000" />
+      <workItem from="1567043188761" duration="3851000" />
+      <workItem from="1567067738099" duration="599000" />
+      <workItem from="1567128485897" duration="2382000" />
+      <workItem from="1567386728090" duration="12501000" />
+      <workItem from="1567413361866" duration="1488000" />
+      <workItem from="1567474532662" duration="7957000" />
+      <workItem from="1567646055076" duration="10339000" />
+      <workItem from="1567733352052" duration="7779000" />
+      <workItem from="1567917559674" duration="1226000" />
+      <workItem from="1567991658544" duration="19383000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="770349000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49105915" visible="true" weight="0.1391258" />
+      <window_info id="Structure" order="1" sideWeight="0.5089409" side_tool="true" weight="0.1391258" />
+      <window_info id="Favorites" order="2" sideWeight="0.50595886" side_tool="true" weight="0.16151386" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.28416485" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.5362947" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.50053304" side_tool="true" weight="0.3943662" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4931694" visible="true" weight="0.12739871" />
+      <window_info id="Structure" order="1" sideWeight="0.5068306" side_tool="true" weight="0.15298508" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.3802817" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.28416485" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.25135428" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.50053304" side_tool="true" weight="0.3943662" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/am$browse_amazon.coverage" NAME="browse_amazon Coverage Results" MODIFIED="1563503569244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am/project" />
+    <SUITE FILE_PATH="coverage/am$mongo_xls__1_.coverage" NAME="mongo_xls (1) Coverage Results" MODIFIED="1563862649005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am/selenium_amazon" />
+    <SUITE FILE_PATH="coverage/am$amazon_selenium_no_ip.coverage" NAME="amazon_selenium_no_ip Coverage Results" MODIFIED="1566203799984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_selenium_project" />
+    <SUITE FILE_PATH="coverage/am$xici_proxy.coverage" NAME="xici_proxy Coverage Results" MODIFIED="1565839725947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy_ip" />
+    <SUITE FILE_PATH="coverage/am$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1568018147319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort" />
+    <SUITE FILE_PATH="coverage/am$2.coverage" NAME="2 Coverage Results" MODIFIED="1567410085072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am/selenium_amazon" />
+    <SUITE FILE_PATH="coverage/am$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1567389209223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_selenium_project/cookies" />
+    <SUITE FILE_PATH="coverage/am$mongo_xls3.coverage" NAME="mongo_xls3 Coverage Results" MODIFIED="1563940669078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/peoject_one" />
+    <SUITE FILE_PATH="coverage/am$66_proxy.coverage" NAME="66_proxy Coverage Results" MODIFIED="1565331941363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy_ip" />
+    <SUITE FILE_PATH="coverage/am$hai_proxy.coverage" NAME="hai_proxy Coverage Results" MODIFIED="1565839804092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy_ip" />
+    <SUITE FILE_PATH="coverage/am$amazon2.coverage" NAME="amazon2 Coverage Results" MODIFIED="1566526978422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am/selenium_amazon" />
+    <SUITE FILE_PATH="coverage/am$selenium_one4.coverage" NAME="selenium_one4 Coverage Results" MODIFIED="1563936450104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/peoject_one" />
+    <SUITE FILE_PATH="coverage/am$list_proxy.coverage" NAME="list_proxy Coverage Results" MODIFIED="1565839778468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy_ip" />
+    <SUITE FILE_PATH="coverage/am$selenium_one1.coverage" NAME="selenium_one1 Coverage Results" MODIFIED="1563947480767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/peoject_one" />
+    <SUITE FILE_PATH="coverage/am$email.coverage" NAME="email Coverage Results" MODIFIED="1564368713967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_email" />
+    <SUITE FILE_PATH="coverage/am$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1567412241442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_selenium_project/cookies" />
+    <SUITE FILE_PATH="coverage/am$selenium_one3.coverage" NAME="selenium_one3 Coverage Results" MODIFIED="1563936197968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/peoject_one" />
+    <SUITE FILE_PATH="coverage/am$amazon1.coverage" NAME="amazon1 Coverage Results" MODIFIED="1563759448574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am/selenium_amazon" />
+    <SUITE FILE_PATH="coverage/am$1.coverage" NAME="1 Coverage Results" MODIFIED="1566291340561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am/selenium_amazon" />
+    <SUITE FILE_PATH="coverage/am$selenium_one6.coverage" NAME="selenium_one6 Coverage Results" MODIFIED="1563937932459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/peoject_one" />
+    <SUITE FILE_PATH="coverage/am$amazon4.coverage" NAME="amazon4 Coverage Results" MODIFIED="1562836688102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am/selenium_amazon" />
+    <SUITE FILE_PATH="coverage/am$selenium_one2.coverage" NAME="selenium_one2 Coverage Results" MODIFIED="1563935368771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/peoject_one" />
+    <SUITE FILE_PATH="coverage/am$selenium_one5.coverage" NAME="selenium_one5 Coverage Results" MODIFIED="1563937629446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/peoject_one" />
+    <SUITE FILE_PATH="coverage/am$mongo_xls2.coverage" NAME="mongo_xls2 Coverage Results" MODIFIED="1563871247948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am/selenium_amazon" />
+    <SUITE FILE_PATH="coverage/am$ipku_proxy.coverage" NAME="ipku_proxy Coverage Results" MODIFIED="1565839768739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy_ip" />
+    <SUITE FILE_PATH="coverage/am$mongo_xls2__1_.coverage" NAME="mongo_xls2 (1) Coverage Results" MODIFIED="1563872414508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/peoject_one" />
+    <SUITE FILE_PATH="coverage/am$kuaidaili_proxy.coverage" NAME="kuaidaili_proxy Coverage Results" MODIFIED="1565839773994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy_ip" />
+    <SUITE FILE_PATH="coverage/am$amazon3.coverage" NAME="amazon3 Coverage Results" MODIFIED="1562823725510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am/selenium_amazon" />
+    <SUITE FILE_PATH="coverage/am$amazon_selenium.coverage" NAME="amazon_selenium Coverage Results" MODIFIED="1564803507433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am/selenium_amazon" />
+    <SUITE FILE_PATH="coverage/am$amazon_project.coverage" NAME="amazon_project Coverage Results" MODIFIED="1566010096778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_selenium_project" />
+    <SUITE FILE_PATH="coverage/am$mongo_xls.coverage" NAME="mongo_xls Coverage Results" MODIFIED="1566527731953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am/selenium_amazon" />
+    <SUITE FILE_PATH="coverage/am$chrome.coverage" NAME="chrome启动 Coverage Results" MODIFIED="1566635404274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_selenium_project" />
+    <SUITE FILE_PATH="coverage/am$amazon_homes.coverage" NAME="amazon_homes Coverage Results" MODIFIED="1562211227331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am" />
+    <SUITE FILE_PATH="coverage/am$spider.coverage" NAME="spider Coverage Results" MODIFIED="1565319120733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy_ip/proxy_pool" />
+    <SUITE FILE_PATH="coverage/am$selenium_one7.coverage" NAME="selenium_one7 Coverage Results" MODIFIED="1563938242312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/peoject_one" />
+    <SUITE FILE_PATH="coverage/am$amazon_selenium_3.coverage" NAME="amazon_selenium_3 Coverage Results" MODIFIED="1562750309838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am" />
+    <SUITE FILE_PATH="coverage/am$yun_proxy.coverage" NAME="yun_proxy Coverage Results" MODIFIED="1565839788157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy_ip" />
+    <SUITE FILE_PATH="coverage/am$em.coverage" NAME="em Coverage Results" MODIFIED="1564542263288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_email" />
+    <SUITE FILE_PATH="coverage/am$test.coverage" NAME="test Coverage Results" MODIFIED="1567735365975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_selenium_project" />
+    <SUITE FILE_PATH="coverage/am$one_selenium.coverage" NAME="one_selenium Coverage Results" MODIFIED="1563869719279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/am/selenium_amazon" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="890" column="92" selection-start-line="890" selection-start-column="30" selection-end-line="890" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="69" column="16" lean-forward="true" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="41" lean-forward="true" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/peoject_one/mongo_xls3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1679">
+          <caret line="73" column="49" selection-start-line="73" selection-start-column="49" selection-end-line="73" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_email/em.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1244">
+          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/peoject_one/mongo_xls2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="128" column="48" lean-forward="true" selection-start-line="128" selection-start-column="48" selection-end-line="128" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_email/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/am/project/browse_amazon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/am/selenium_amazon/amazon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1219">
+          <caret line="79" column="30" lean-forward="true" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/am/selenium_amazon/amazon1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4261">
+          <caret line="253" lean-forward="true" selection-start-line="253" selection-end-line="253" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/am/selenium_amazon/amazon3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="261" column="20" lean-forward="true" selection-start-line="261" selection-start-column="20" selection-end-line="261" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/am/selenium_amazon/amazon_selenium_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3933">
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/am/selenium_amazon/one_selenium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1564">
+          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/am/spiders/amazon_goods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-737">
+          <caret line="45" column="18" lean-forward="true" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/peoject_one/selenium_one1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2439">
+          <caret line="28" column="211" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="211" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/peoject_one/selenium_one2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="138" column="37" selection-start-line="135" selection-start-column="11" selection-end-line="138" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/peoject_one/selenium_one3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="139" column="9" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/peoject_one/selenium_one4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="138" column="37" selection-start-line="135" selection-start-column="11" selection-end-line="138" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/peoject_one/selenium_one5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="83" column="61" selection-start-line="66" selection-start-column="7" selection-end-line="83" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/peoject_one/selenium_one6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="141" column="24" selection-start-line="141" selection-start-column="24" selection-end-line="141" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/peoject_one/selenium_one7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/peoject_one/selenium_one9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/peoject_one/selenium_one8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1035" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../proxy_ip/proxy_ip/1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Scrapy_Proxy_Ip/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1081">
+          <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/am/selenium_amazon/amazon_homes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="111" column="46" lean-forward="true" selection-end-line="324" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy_ip/proxy_pool/.idea/vcs.xml" />
+    <entry file="file://$PROJECT_DIR$/proxy_ip/proxy_pool/spider.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/re.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy_ip/test.py" />
+    <entry file="file://$PROJECT_DIR$/proxy_ip/list_proxy.py" />
+    <entry file="file://$PROJECT_DIR$/proxy_ip/kuaidaili_proxy.py" />
+    <entry file="file://$PROJECT_DIR$/proxy_ip/ipku_proxy.py" />
+    <entry file="file://$PROJECT_DIR$/proxy_ip/hai_proxy.py" />
+    <entry file="file://$PROJECT_DIR$/proxy_ip/yun_proxy.py" />
+    <entry file="file://$PROJECT_DIR$/proxy_ip/xici_proxy.py" />
+    <entry file="file://$PROJECT_DIR$/am/selenium_amazon/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="393" selection-start-line="393" selection-end-line="393" />
+          <folding>
+            <element signature="e#7595#7629#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_selenium_project/cookies/26009.txt" />
+    <entry file="file://$PROJECT_DIR$/am/selenium_amazon/mongo_xls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/am/selenium_amazon/amazon2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="35" column="28" lean-forward="true" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_selenium_project/amazon_selenium_no_ip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="65" column="11" selection-start-line="65" selection-start-column="11" selection-end-line="65" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_selenium_project/chrome启动.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/xlwt/Worksheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="1087" selection-start-line="1087" selection-end-line="1087" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/am/selenium_amazon/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_selenium_project/cookies/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3473">
+          <caret line="152" column="36" selection-start-line="152" selection-start-column="36" selection-end-line="152" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_selenium_project/amazon_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5865">
+          <caret line="265" column="14" selection-start-line="265" selection-start-column="14" selection-end-line="265" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_selenium_project/cookies/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_selenium_project/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="136" column="25" selection-start-line="136" selection-start-column="25" selection-end-line="136" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sort/bubble_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/am/selenium_amazon/amazon_selenium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
